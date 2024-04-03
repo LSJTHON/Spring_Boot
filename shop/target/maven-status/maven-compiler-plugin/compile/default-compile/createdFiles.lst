@@ -1,0 +1,5 @@
+com\shop\entity\QItem.class
+com\shop\ShopApplication.class
+com\shop\repository\ItemRepository.class
+com\shop\constant\ItemSellStatus.class
+com\shop\entity\Item.class
